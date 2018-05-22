@@ -1,5 +1,5 @@
-# Monero Address Generator
-Lets you generate a fully functional monero address which you can send money to.
+# Monero Wallet Generator
+Lets you generate an offline monero wallet which can receive crypto currency.
 
 ## Installation
 Install the gem:
